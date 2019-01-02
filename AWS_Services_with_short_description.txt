@@ -1,0 +1,204 @@
+AWS_Services_with_short_description (01/02/2019):
+
+01. COMPUTE (8):
+
+EC2
+Lightsail
+ECR
+ECS
+EKS
+Lambda
+Batch
+Elastic Beanstalk
+
+02. STORAGE (5):
+
+S3
+EFS
+FSx
+S3 Glacier
+Storage Gateway
+
+03. DATABASE (5):
+
+RDS
+DynamoDB
+ElastiCache
+Neptune
+Amazon Redshift
+
+04. MIGRATION & TRANSFER (7):
+
+AWS Migration Hub
+Application Discovery Service
+Database Migration Service
+Server Migration Service
+AWS Transfer for SFTP
+Snowball
+DataSync
+
+05. NETWORKING & CONTENT DELIVERY (7):
+
+VPC
+CloudFront
+Route 53
+API Gateway
+Direct Connect
+AWS Cloud Map
+Global Accelerator
+
+06. DEVELOPER TOOLS (7):
+
+CodeStar
+CodeCommit
+CodeBuild
+CodeDeploy
+CodePipeline
+Cloud9
+X-Ray
+
+07. ROBOTICS (1):
+
+AWS RoboMaker
+
+08. BLOCKCHAIN (1):
+
+Amazon Managed Blockchain
+
+09. SATELLITE (1):
+
+Ground Station
+
+10. MANAGEMENT & GOVERNANCE (14):
+
+CloudWatch
+AWS Auto Scaling
+CloudFormation
+CloudTrail
+Config
+OpsWorks
+Service Catalog
+Systems Manager
+Trusted Advisor
+Managed Services
+Control Tower
+AWS License Manager
+AWS Well-Architected Tool
+Personal Health Dashboard
+
+11. MEDIA SERVICES (8):
+
+Elastic Transcoder
+Kinesis Video Streams
+MediaConnect
+MediaConvert
+MediaLive
+MediaPackage
+MediaStore
+MediaTailor
+
+12. MACHINE LEARNING (12):
+
+Amazon SageMaker
+Amazon Comprehend
+AWS DeepLens
+Amazon Lex
+Machine Learning
+Amazon Polly
+Rekognition
+Amazon Transcribe
+Amazon Translate
+Amazon Personalize
+Amazon Forecast
+Amazon Textract
+
+13. ANALYTICS (9):
+
+Athena
+EMR
+CloudSearch
+Elasticsearch Service
+Kinesis
+QuickSight
+Data Pipeline
+AWS Glue
+MSK
+
+14. SECURITY, IDENTIFY & COMPLIANCE (16):
+
+IAM
+Resource Access Manager
+Cognito
+Secrets Manager
+GuardDuty
+Inspector
+Amazon Macie
+AWS Organizations
+AWS Single Sign-On
+Certificate Manager
+Key Management Service
+CloudHSM
+Directory Service
+WAF & Shield
+Artifact
+Security Hub
+
+15. MOBILE (4):
+
+AWS Amplify
+Mobile Hub
+AWS AppSync
+Device Farm
+
+16. AR & VR (1)
+
+Amazon Sumerian
+
+17. APPLICATION INTEGRATION (5):
+
+Step Functions
+Amazon MQ
+Simple Notification Service
+Simple Queue Service
+SWF
+
+18. AWS COST MANAGEMENT (3):
+
+AWS Cost Explorer
+AWS Budgets
+AWS Marketplace Subscriptions
+
+19. CUSTOMER ENGAGEMENT (3)
+
+Amazon Connect
+Pinpoint
+Simple Email Service
+
+20. BUSINESS  APPLICATIONS (4):
+
+Alexa for Business
+Amazon Chime
+WorkDocs
+WorkMail
+
+21. DESKTOP & APP STREAMING (2):
+
+WorkSpaces
+AppStream 2.0
+
+22. INTERNET OF THINGS (10):
+
+IoT Core
+Amazon FreeRTOS
+IoT 1-Click
+IoT Analytics
+IoT Device Defender
+IoT Device Management
+IoT Events
+IoT Greengrass
+IoT SiteWise
+IoT Things Graph
+
+23. GAME DEVELOPMENT (1):
+
+Amazon GameLift
