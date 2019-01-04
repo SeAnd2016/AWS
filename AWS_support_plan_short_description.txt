@@ -1,0 +1,85 @@
+AWS_support_plan_short_description
+
+01. Basic Plan
+
+Customer Service and Communities
+24x7 access to
+customer service, documentation, whitepapers, and
+support forums
+
+Best Practices
+Access to 7 core
+Trusted Advisor checks
+
+Health status and Notifications
+Access to Personal Health Dashboard
+
+02. Development Plan
+The Developer Support plan offers resources for customers testing or doing early development on AWS, as well as any customers who:
+
+- Want access to guidance and technical support
+- Are exploring how to quickly put AWS to work
+- Use AWS for non-production workloads or applications
+
+Plan Detail and Resources:
+- Technical Support
+Business hours* access to
+Cloud Support Associates
+via email
+
+- Customer Contacts
+One primary contact may open
+an unlimited number of cases
+(IAM supported)
+
+- Case Severity and Response Times**
+General guidance: < 24 business hours
+System impaired: < 12 business hours
+
+AWS Trusted Advisor - Core Checks
+Access to the 7 core Trusted Advisor checks and guidance to provision your resources following best practices to increase performance and improve security.
+AWS Personal Health Dashboard
+A personalized view of the health of AWS services, and alerts when your resources are impacted.
+
+Architecture Support - Developer
+General guidance on how services can be used for various use cases, workloads, or applications.
+Pricing: Starts at $29 per month.
+
+03. Business Plan
+The Business Support plan offers resources for customers running production workloads on AWS as well as any customers who:
+
+- Run one or more applications in production environments
+- Have multiple services activated, or use key services extensively
+- Depend on their business solutions to be available, scalable, and secure
+
+Plan Detail and Resources:
+- Technical Support
+24x7 access to
+Cloud Support Engineers
+via email, chat, and phone
+
+- Customer Contacts
+An unlimited number of contacts
+may open an unlimited number
+of cases (IAM supported)
+
+- Case Severity and Response Times*
+General guidance: < 24 hours
+System impaired: < 12 hours
+Production system impaired: < 4 hours
+Production system down: < 1 hour
+
+AWS Trusted Advisor - Full Checks
+Access to the full set of Trusted Advisor checks and guidance to provision your resources following best practices to help reduce cost, increase performance and fault tolerance, and improve security.
+AWS Personal Health Dashboard
+A personalized view of the health of AWS services, and alerts when your resources are impacted. Includes the Health API for integration with your existing management systems.
+
+Infrastructure Event Management
+Architecture and scaling guidance, and real-time operational support during the preparation and execution of planned events, product launches, and migrations. Available with Business Support for an additional fee.
+Architecture Support - Business
+Contextual guidance on how services fit together to meet your specific use-case, workload, or application.
+AWS Support API
+Programmatic access to AWS Support Center features to create, manage, and close your support cases, and operationally manage your Trusted Advisor check requests and status.
+Third Party Software Support
+Guidance, configuration, and troubleshooting of AWS interoperability with many common operating systems, platforms, and application stack components.
+Pricing: Starts at $100 per month.
